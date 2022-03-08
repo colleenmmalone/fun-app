@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../css/Colleen.scss';
+import '../scss/Colleen.scss';
 
 export const Colleen = () => {
   

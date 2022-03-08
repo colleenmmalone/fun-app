@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-//import '../css/YourNameHere.scss';
+//import '../scss/YourNameHere.scss';
 
 // add all your stylings to yourname-container so it does not affect other people's pages
 // I have page-container here incase we add a navBar later and need to adjust everyone's pages for it

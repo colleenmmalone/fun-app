@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../css/Buttons.scss';
+import '../scss/Buttons.scss';
 
 // add your routes to the linkes below 
 
@@ -11,7 +11,7 @@ export const Buttons = () => {
             <h1>Click something!</h1>
             
             <Link to="/colleen">
-                <button className='btn-main' id='colleen'>CMM</button><br />
+                <button className='btn-main' id='colleen'></button><br />
             </Link>
 
             <Link to="/">
