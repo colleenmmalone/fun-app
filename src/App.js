@@ -1,6 +1,5 @@
 import './App.scss';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-
 import { Buttons } from './pages/Buttons';
 import { Colleen } from './pages/Colleen';
 
